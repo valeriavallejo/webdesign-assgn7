@@ -1,0 +1,70 @@
+.home {
+    width: 100%;
+    height:100%;
+    background-color: #d1fff9;
+  }
+
+.page1 {
+    width: 100%;
+    height: 100%;
+    background-color: #121515;
+    color: yellow;
+}
+
+.page2 {
+    width: 100%;
+    height: 100%;
+    background-color: #fe1371;
+    color: green;
+}
+
+.centered {
+    text-align: center;
+}
+
+.centered-container{
+  width: 20%;
+  margin:0 auto;
+}
+
+.box {
+    width: 300px;
+    height: 50px;
+    text-align: left;
+}
+
+
+.right{
+  float: right;
+
+}
+
+.staticCenter {
+    position: fixed;
+    text-align: center;
+    padding: 100px, 100px, 100px, 100px;
+}
+
+  .topnav {
+    background-color: #e2caff;
+    overflow: hidden;
+  }
+  
+  .topnav a {
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: #c798ff;
+    color: white;
+  }
+  
+  .topnav a.active {
+    background-color: #d1fff9;
+    color: black;
+  }
